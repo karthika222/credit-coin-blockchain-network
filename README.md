@@ -19,3 +19,7 @@ CREDIT COIN is a decentralized network designed to enable secure, privacy-focuse
 - HTML / CSS (optional frontend)
 
 ## 📁 Folder Structure
+├── blockchain/
+├── backend/
+├── frontend/
+├── docs/
